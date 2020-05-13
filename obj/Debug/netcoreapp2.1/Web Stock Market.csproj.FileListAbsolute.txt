@@ -1,0 +1,32 @@
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\bin\Debug\netcoreapp2.1\Web Stock Market.deps.json
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\bin\Debug\netcoreapp2.1\Web Stock Market.runtimeconfig.json
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\bin\Debug\netcoreapp2.1\Web Stock Market.runtimeconfig.dev.json
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\bin\Debug\netcoreapp2.1\Web Stock Market.dll
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\bin\Debug\netcoreapp2.1\Web Stock Market.pdb
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\bin\Debug\netcoreapp2.1\Web Stock Market.Views.dll
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\bin\Debug\netcoreapp2.1\Web Stock Market.Views.pdb
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\obj\Debug\netcoreapp2.1\Web Stock Market.csprojAssemblyReference.cache
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\obj\Debug\netcoreapp2.1\Web Stock Market.csproj.CoreCompileInputs.cache
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\obj\Debug\netcoreapp2.1\Web Stock Market.RazorAssemblyInfo.cache
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\obj\Debug\netcoreapp2.1\Web Stock Market.RazorAssemblyInfo.cs
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\obj\Debug\netcoreapp2.1\Web Stock Market.AssemblyInfoInputs.cache
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\obj\Debug\netcoreapp2.1\Web Stock Market.AssemblyInfo.cs
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\obj\Debug\netcoreapp2.1\Web Stock Market.TagHelpers.input.cache
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\obj\Debug\netcoreapp2.1\Web Stock Market.TagHelpers.output.cache
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\obj\Debug\netcoreapp2.1\Web Stock Market.RazorCoreGenerate.cache
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\obj\Debug\netcoreapp2.1\Web Stock Market.RazorTargetAssemblyInfo.cache
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\obj\Debug\netcoreapp2.1\Web Stock Market.RazorTargetAssemblyInfo.cs
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\obj\Debug\netcoreapp2.1\Web Stock Market.Views.pdb
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\obj\Debug\netcoreapp2.1\Web Stock Market.dll
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\obj\Debug\netcoreapp2.1\Web Stock Market.pdb
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\obj\Debug\netcoreapp2.1\Web Stock Market.csproj.CopyComplete
+D:\I.T. Career\2ра година\2020 IT Career Project\Web Stock Market\Web Stock Market\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
